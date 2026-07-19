@@ -1,0 +1,7 @@
+node_modules
+.git
+.kimi-code
+*.log
+.env
+.env.*
+!.env.example

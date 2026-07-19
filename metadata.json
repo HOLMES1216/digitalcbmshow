@@ -1,0 +1,6 @@
+{
+  "name": "Knorr-Bremse Digital CBM",
+  "description": "面向展会场景的数字化CBM互动故事体验",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
