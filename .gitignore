@@ -6,3 +6,6 @@ coverage/
 *.log
 .env*
 !.env.example
+pkg_part_*
+.pkg_part_*
+CBM CONCEPT.jpg
